@@ -34,5 +34,4 @@ password: password
 email:admin@example.com 
 password: password
 
-↑こちらでログインする事ができます！
- 
+↑こちらでログインする事ができます。
