@@ -1,24 +1,38 @@
-# README
+# Name（リポジトリ/プロジェクト/OSSなどの名前）
+ 
+Task_Management
+ 
+# DEMO
+ 
+誰でも簡単にタスクを管理でき他の人のタスクも確認できてTOdoを周りと共有したりする事ができます。
+ 
+# Features
+ 
+Doker,Rspceを用いて実際の現場でも使われている使用にしました。
+ 
+# Requirement
+ 
+Mac os 
+ 
+# Usage
+ 最初の画面で
+ ログインパスワード
+email:admin@example.com 
+password: password
+と打つとログインできます。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+・新規でのユーザー登録、削除
+・タスクの登録、編集、削除
+・ログイン、ログアウト機能の実装
+・写真を貼れる事を可能
+などを実装しました。
 
-Things you may want to cover:
+ 
+# Note
+ 
+ログインパスワード
+email:admin@example.com 
+password: password
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+↑こちらでログインする事ができます！
+ 
